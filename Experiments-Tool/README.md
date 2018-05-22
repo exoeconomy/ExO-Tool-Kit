@@ -40,8 +40,6 @@ this license, http://creativecommons.org/licenses/by-nd/4.0/ or send a letter to
 
 ### Rev 1.3 2018-05-17
 - Highlighted Call to Action phrase and URL
-
-### Rev 1.2 2018-05-17
 - Removed Test and Learning Cards, replacing with link to Strategyzer.com
 - Updated license and attribution language to properly reflect sources and copyrights:
 - Removed the following files
