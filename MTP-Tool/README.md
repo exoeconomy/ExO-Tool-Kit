@@ -1,4 +1,4 @@
-# Gazelles Growth Institute - ExO Tools MTP form
+# Gazelles Growth Institute - ExO MTP Tool
 Form created/curated for Gazelles Growth Institute by Ann and Gary Ralston, ralstonconsulting.com 
 
 ## Thanks to our contributors: 

@@ -1,4 +1,4 @@
-# Gazelles Growth Institute - ExO Tools Algorithms form
+# Gazelles Growth Institute - ExO Algorithms Tool
 
 Form created/curated for Gazelles Growth Institute (growthinstitute.com) by Ann and Gary Ralston (ralstonconsulting.com)
 

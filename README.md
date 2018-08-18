@@ -19,7 +19,7 @@ These tools are free to use, share, and distributed. They are licensed individua
 - Dashboards
 - Experiments
 - Autonomy
-- Social (pending)
+- Social
 
 You will find all the current and past releases here:
 https://github.com/exofoundation/ExO-Tool-Kit/releases

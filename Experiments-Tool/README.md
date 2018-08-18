@@ -1,4 +1,4 @@
-# Gazelles Growth Institute - ExO Tools Experimentation form
+# Gazelles Growth Institute - ExO Experiments Tool
 
 Form created/curated for Gazelles Growth Institute (growthinstitute.com) by Ann and Gary Ralston (ralstonconsulting.com)
 

@@ -1,4 +1,4 @@
-# Gazelles Growth Institute - ExO Tools Dashboards form
+# Gazelles Growth Institute - ExO Community & Crowd Tool
 
 Form created/curated for Gazelles Growth Institute (growthinstitute.com) by Ann and Gary Ralston (ralstonconsulting.com)
 

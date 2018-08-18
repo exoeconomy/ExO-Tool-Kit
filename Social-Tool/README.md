@@ -1,4 +1,4 @@
-# Gazelles Growth Institute - ExO Tools Social Tool
+# Gazelles Growth Institute - ExO Social Tool
 Form created/curated for Gazelles Growth Institute (growthinstitute.com) by Ann and Gary Ralston (ralstonconsulting.com)
 
 TO LEARN HOW TO USE THIS TOOL, VISIT www.growthinstitute.com/exo

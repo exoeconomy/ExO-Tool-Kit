@@ -1,4 +1,4 @@
-# Gazelles Growth Institute - ExO Tools Staff-on-Demand form
+# Gazelles Growth Institute - ExO Staff-on-Demand Tool
 
 Form created/curated for Gazelles Growth Institute (growthinstitute.com) by Ann and Gary Ralston (ralstonconsulting.com)
 
