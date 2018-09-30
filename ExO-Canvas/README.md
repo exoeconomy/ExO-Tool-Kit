@@ -6,8 +6,12 @@ There are three languages currently published:
 
 English(EN) - [Download](https://github.com/exofoundation/exo-tools/blob/master/ExO-Canvas/ExOCanvas-EN-English.pdf)
 
+English(EN) Editable - [Download](https://github.com/exofoundation/ExO-Tool-Kit/blob/master/ExO-Canvas/exo-canvas-editable.pdf)
+
 Spanish (ES) - [Download](https://github.com/exofoundation/exo-tools/blob/master/ExO-Canvas/ExO%20Canvas-ES-Spanish.pdf)
 
 Portuguese (PT) - [Download](https://github.com/exofoundation/exo-tools/blob/master/ExO-Canvas/ExOCanvas-PT-Portuguese.pdf)
+
+
 
 More coming...
