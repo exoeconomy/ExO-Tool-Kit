@@ -1,56 +1,83 @@
-# Gazelles Growth Institute - ExO Experiments Tool
+## Gazelles Growth Institute - ExO Tools Experimentation form
 
 Form created/curated for Gazelles Growth Institute (growthinstitute.com) by Ann and Gary Ralston (ralstonconsulting.com)
 
-A BIG thank you to Alex Osterwalder and team at Strategyzer.com for the use of the Test Card and Investment Risk diagram.
+- A BIG thank you to Alex Osterwalder and 
 
-## Thanks to our contributors: 
-Andrea Argomedo-Halliday
-Ann Ralston
-Camilo Aristizabal
-Debbie Slye
-Gary Ralston
-Henrik Bo Larsen
-Jerry Michalski
-Kent Langley
-Laurent Boinot
-Marc Bonavia
-Péter Kristóf
-Soushiant Zanganehpour
+team at Strategyzer.com for the use of the Test Card and Investment Risk diagram.
 
-## Credits:
-Test Card; Investment vs. Investment Risk diagram - Alex Osterwalder, Strategyzer AG - strategyzer.com https://bit.ly/NewIdeasRisk
-Steve Blank - steveblank.com
-Astro Teller - www.astroteller.net
+**Thanks to our contributors: **
 
-## License:
+- Andrea Argomedo-Halliday
+- Ann Ralston
+- Camilo Aristizabal
+- Debbie Slye
+- Gary Ralston
+- Henrik Bo Larsen
+- Jerry Michalski
+- Kent Langley
+- Laurent Boinot
+- Marc Bonavia
+- Péter Kristóf
+- Soushiant Zanganehpour
+- **Credits:**
+- Test Card; Investment vs. Investment Risk diagram - Alex Osterwalder, Strategyzer AG - strategyzer.com https://bit.ly/NewIdeasRisk
+- Steve Blank - steveblank.com
+- Astro Teller - www.astroteller.net
+
+**License:**
+
 Work licensed under Creative Commons Attribution-NoDerivatives 4.0 International License. By Growth Institute Inc. based on work by Strategyzer AG. For a copy of
+
 this license, http://creativecommons.org/licenses/by-nd/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
-## Repositories:
+**Repositories:**
+
 - GITHUB - https://github.com/exofoundation/ExO-Tool-Kit/releases
-- GGI Internal Archives - https://info.growthinstitute.com/experimentation-tool
+
+- GGI Internal Archives
+- https://info.growthinstitute.com/experimentation-tool
 - NEW ExOLever
 
-## Also published:
+**Also published:**
+
 - ExOLever
 - ExO Network Slack Channel
 
-## Change Log:
+=============
 
-### Rev 1.3 2018-05-17
-- Highlighted Call to Action phrase and URL
+**Change Log:**
+
+=============
+
+Rev 1.5 2018-09-12 =============
+
+- Fixed cosmetic printing glitch page 1
+
+Rev 1.4 2018-07-11 =============
+
+- Appended unedited Strategyzer Test Card and Learning Card to PDF, with permission. **TEST CARD AND LEARNING CARD ARE OFF-LIMITS. NO modifications permitted per Alex Osterwalder. Please Honor this Copyright.**
+
+Rev 1.3 2018-05-17 =============
+
+- Hilighted Call to Action phrase and URL
+
+Rev 1.2 2018-05-17 =============
+
 - Removed Test and Learning Cards, replacing with link to Strategyzer.com
 - Updated license and attribution language to properly reflect sources and copyrights:
 - Removed the following files
-- GGI ExO Tools - Experimentation - FINAL 2018-05-17 r1-0-fillable.pdf
-- GGI ExO Tools - Experimentation - FINAL 2018-05-17 r1-0-static.pdf
+
+    - GGI ExO Tools - Experimentation - FINAL 2018-05-17 r1-0-fillable.pdf
+    - GGI ExO Tools - Experimentation - FINAL 2018-05-17 r1-0-static.pdf
+
 - Added the following file
-- GGI ExO Tools - Experimentation - FINAL 2018-05-17 r1-2-fillable.pdf
+    - GGI ExO Tools - Experimentation - FINAL 2018-05-17 r1-2-fillable.pdf
 
+Rev 1.0 2018-05-17 =============
 
-### Rev 1.0 2018-05-17
 Original Source Files:
+
 - GGI ExO Tools - Experimentation - FINAL 2018-05-17 r1-0-fillable.pdf
 - GGI ExO Tools - Experimentation - FINAL 2018-05-17 r1-0-static.pdf
-- README.md
+- README - GGI ExO Tools - Experimentation.rtf

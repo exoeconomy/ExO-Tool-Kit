@@ -11,11 +11,11 @@ These tools are free to use, share, and distributed. They are licensed individua
 - Staff on Demand
 - Community & Crowd
 - Algorithms
-- Leveraged Assets (pending)
+- Leveraged Assets
 - Engagement
 
 ## IDEAS
-- Interfaces (pending)
+- Interfaces
 - Dashboards
 - Experiments
 - Autonomy
