@@ -25,9 +25,12 @@ Repositories:
 	•	NEW ExOLever
 
 
-=============
 Change Log:
-=============
+
+Rev 1.1 2020-07-07 =============
+* Updated all tools to reflect brand updates
+* removed all old text format files
+* updated all change logs
 
 Rev 1.0 2018-08-17 =============
 Original Source Files

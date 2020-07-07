@@ -26,6 +26,12 @@ Work licensed under Creative Commons Attribution-NoDerivatives 4.0 International
 
 ## Change Log:
 
+Rev 1.3 2020-07-07 =============
+* Updated all tools to reflect brand updates
+* removed all old text format files
+* updated all change logs
+
+
 Rev 1.2 2019-01-06 =============
 Fixed layout glitch page 2
 * GGI ExO Tools Algorithms - FINAL 2019-01-06 R1-2-fillable.pdf

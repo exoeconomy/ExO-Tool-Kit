@@ -36,7 +36,10 @@ and Yuri van Geest. For a copy of this license, http://creativecommons.org/licen
 
 **Change Log:**
 
-=============
+Rev 1.2 2020-07-07 =============
+* Updated all tools to reflect brand updates
+* removed all old text format files
+* updated all change logs
 
 2018-05-15 R 1-1 =============
 

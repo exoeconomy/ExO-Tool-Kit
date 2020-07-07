@@ -48,7 +48,10 @@ this license, http://creativecommons.org/licenses/by-nd/4.0/ or send a letter to
 
 **Change Log:**
 
-=============
+Rev 1.6 2020-07-07 =============
+* Updated all tools to reflect brand updates
+* removed all old text format files
+* updated all change logs
 
 Rev 1.5 2018-09-12 =============
 
