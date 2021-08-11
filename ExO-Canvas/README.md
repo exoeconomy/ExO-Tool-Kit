@@ -12,6 +12,6 @@ Spanish (ES) - [Download](https://github.com/exofoundation/exo-tools/blob/master
 
 Portuguese (PT) - [Download](https://github.com/exofoundation/exo-tools/blob/master/ExO-Canvas/ExOCanvas-PT-Portuguese.pdf)
 
-French (FR) - [Download] (https://github.com/exoeconomy/ExO-Tool-Kit/blob/master/ExO-Canvas/ExOCanvas-FR-French.pdf)
+French (FR) - [Download](https://github.com/exoeconomy/ExO-Tool-Kit/blob/master/ExO-Canvas/ExOCanvas-FR-French.pdf)
 
 *If you would like to contribute a version in your language download the fillable English version, make your mods, and resubmit here as a pull request.* 
