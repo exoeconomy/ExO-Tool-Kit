@@ -1,8 +1,10 @@
 # The ExO Toolkit
 
-In this repository you will find a set of community created open sources tools with with you assit you in becomming and ExO.
+In this repository you will find a set of community created open sources tools to you assit you in becomming an ExO.
 
-These tools are free to use, share, and distributed. They are licensed individually under creative commons. Please note the licensing and provide appropriate attribution to the tool creators as you use and display these tools in your work.
+These tools are free to use, share, and distribute. They are licensed individually under creative commons. 
+
+Please note the licensing and provide appropriate attribution to the tool creators as you use and display these tools in your work.
 
 ## ExO Canvas
 - ExO Canvas
